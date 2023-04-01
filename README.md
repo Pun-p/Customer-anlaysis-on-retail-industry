@@ -6,8 +6,6 @@ The modernworld retail market are high in competitive. Now to be able to maintai
 
 These files show you the raw data and the final presentation which might be easy for you to get some ideas.
 
-Credit: Thank for raw data from Data Master program.
-
 Note: This project is allowed only private and non-commercial used only.
 
 Pun_Pitipat
